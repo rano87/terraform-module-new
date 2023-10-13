@@ -21,4 +21,5 @@ module "project"{
     ip_on_launch = true
     sg_group ="security_group"
     default_cidr_block = "0.0.0.0/0"
-}```
+}
+```
